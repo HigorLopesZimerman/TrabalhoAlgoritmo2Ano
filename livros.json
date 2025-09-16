@@ -1,0 +1,27 @@
+[
+    {
+        "cod_livro": 1,
+        "titulo": "estrutura de dados",
+        "cod_autor": 10,
+        "cod_categoria": 3,
+        "ano_publicacao": 2020,
+        "disponibilidade": "disponivel"
+    },
+    {
+        "cod_livro": 2,
+        "titulo": "estrutura de coisas",
+        "cod_autor": 12,
+        "cod_categoria": 5,
+        "ano_publicacao": 2019,
+        "disponibilidade": "disponivel"
+    },
+
+    {
+        "cod_livro": 5,
+        "titulo": "mestres do capitalismo",
+        "cod_autor": 10,
+        "cod_categoria": 7,
+        "ano_publicacao": 2016,
+        "disponibilidade": "disponivel"
+    }
+]
